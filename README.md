@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmirand4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Achievements
-[![Achievements](https://github-readme-stats.vercel.app/api/stats/?username=jmirand4&theme=radical&show_icons=true)](https://github.com/jmirand4)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmirand4&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/jmirand4)
 
 ### 🔝 Top Contributed Repo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jmirand4&repo=NOME_DO_REPO&theme=dark)](https://github.com/jmirand4/observador-news)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jmirand4&repo=observador-news&theme=dark)](https://github.com/jmirand4/observador-news)
