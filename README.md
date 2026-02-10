@@ -16,4 +16,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmirand4&theme=radical)
 
 ### 🔝 Top Contributed Repo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jmirand4&repo=observador-news&theme=dark)](https://github.com/jmirand4/observador-news)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jmirand4)](https://github.com/jmirand4/observador-news)
