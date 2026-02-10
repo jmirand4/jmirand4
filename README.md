@@ -14,6 +14,3 @@
 
 ## 🏆 GitHub Achievements
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmirand4&theme=radical)
-
-### 🔝 Top Contributed Repo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jmirand4)](https://github.com/jmirand4/observador-news)
