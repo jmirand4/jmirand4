@@ -45,6 +45,8 @@ I’m a firm believer that the best documentation is clean code — but I still 
 ![](https://nirzak-streak-stats.vercel.app/?user=jmirand4&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmirand4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Achievements
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmirand4&theme=radical)
+## 🏆 Buy me a coffe
+<a href="https://www.buymeacoffee.com/jmirand4" target="_blank" title="buymeacoffee">
+<img src="https://iili.io/JoQ0VVa.md.png" alt="buymeacoffee-red-badge" style="width: 104px;">
+</a>
 
