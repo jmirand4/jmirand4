@@ -33,10 +33,6 @@ I am a **Mobile Developer** dedicated to building high-quality Android applicati
 ### ⚡ Fun Fact
 I’m a firm believer that the best documentation is clean code — but I still write my comments "just in case" and rely on the classic `println("ASD")` for quick debugging! ☕😎
 
----
-## 🎵One of my Websites
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4366aebd-06d2-4aef-b353-685843fa86b5/deploy-status)](https://app.netlify.com/projects/ursosdasgaitas/deploys)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joao.mirand4/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-miranda-47570627b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jesantosmiranda01@gmail.com) 
 
