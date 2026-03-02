@@ -40,10 +40,10 @@ I’m a firm believer that the best documentation is clean code — but I still 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue?style=for-the-badge) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 # 📊 GitHub Stats:
-<> ![](https://github-readme-stats.vercel.app/api?username=jmirand4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<> ![](https://nirzak-streak-stats.vercel.app/?user=jmirand4&theme=dark&hide_border=false)<br/>
-<> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmirand4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://pixel-profile.vercel.app/api/github-stats?username=<jmirand4>&screen_effect=true&theme=crt)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=jmirand4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://nirzak-streak-stats.vercel.app/?user=jmirand4&theme=dark&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmirand4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://pixel-profile.vercel.app/api/github-stats?username=jmirand4&screen_effect=true&theme=crt)<br/>
 
 ## 🏆 Buy me a coffe
 <a href="https://www.buymeacoffee.com/jmirand4" target="_blank" title="buymeacoffee">
