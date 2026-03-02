@@ -44,7 +44,9 @@ I’m a firm believer that the best documentation is clean code — but I still 
  ![](https://nirzak-streak-stats.vercel.app/?user=jmirand4&theme=dark&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmirand4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <picture decoding="async" loading="lazy">
- <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=jmirand4&theme=crt">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jmirand4&theme=summer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=jmirand4&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
 </picture>
 
 ## 🏆 Buy me a coffe
